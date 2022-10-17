@@ -153,7 +153,7 @@ fisher_enrichment <- function(genesets, de_genes, not_de_genes, min_size_gene_se
   return(res_enrich)
 }
 
-#from Stephan Fischer - quick rank matrix
+#Quick rank matrix
 #' rank_matrix
 #'
 #'Function to rank a matrix quickly while replacing any NA values

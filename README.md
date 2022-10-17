@@ -13,6 +13,8 @@ Function list -
 
 To install package - 
 
+```
 devtools::install_github("sukalpm/utility.functions/utility.functions")
+```
 
 Authored by Sukalp Muzumdar

@@ -11,5 +11,8 @@ Function list -
 6. plotVolcano - Given a differential expression table, generate a volcano plot depicting the results
 7. excludeSexChrGenes - Given a list of genes or a differential expression table, exclude all genes associated with the human X or Y chromosome
 
+To install package - 
+
+devtools::install_github("sukalpm/utility.functions/utility.functions")
 
 Authored by Sukalp Muzumdar
